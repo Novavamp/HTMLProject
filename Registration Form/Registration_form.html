@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Registration Form</title>
+        <link rel="stylesheet" href="styles.css" />
+    </head>
+    <body>
+        <h1>Registration Form</h1>
+        <p>Please fill in your details below</p>
+        <form action="https://novavamp.com">
+            <fieldset>
+                <label for="first-name">First Name: <input type="text" id="first-name" name="firstname" required /></label>
+                <label for="last-name">Last Name: <input type="text" id="last-name" name="lastname" required /></label>
+                <label for="email-address">Email Address: <input type="email" id="email" name="email-address" required /></label>
+                <label for="password">New Password: <input type="password" id="password" name="pass-word" required /></label>
+            </fieldset>
+            <fieldset>
+                <label for="age">Input your age: <input id="age" type="number" min="13" max="120" /></label>
+                <label for="file">Profile image: <input type="file" id="file"/></label>
+                <label for="bio">About you: <textarea id="bio" placeholder="I love coding on a beach..." rows="4" cols="30"></textarea></label>
+            </fieldset>
+            <fieldset>
+                <label for="new"><input class="inline" type="radio" id="new" name="type"/> New Registrant</label>
+                <label for="old"><input class="inline" type="radio" id="old" name="type"/> Old Registrant</label>
+                <label for="about-us">How did you hear about us?
+                    <select id="about-us">
+                        <option selected>(select option)</option>
+                        <option>Facebook</option>
+                        <option>Google</option>
+                        <option>From a friend</option>
+                        <option>Other</option>
+                    </select>
+                </label>
+                <label class="label1" for="terms"><input class="check" type="checkbox" id="terms" name="terms"/> I have read the <a href="https://novavamp.com/temrs">terms and conditions.</a></label>
+            </fieldset>
+            <input type="submit" id="submit" value="Submit" />
+        </form>
+    </body>
+</html>

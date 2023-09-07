@@ -4,7 +4,7 @@ body {
     margin: 0;
     background-color: #1b1b32;
     color: #f5f6f7;
-    font-family: Tahoma;
+    font-family: sans-serif;
     font-size: 16px;
   }
   
@@ -52,7 +52,7 @@ body {
   
   .inline {
     width: unset;
-    margin: 0 0.5em 0 0;
+    margin: 0 0.5em 0.5em 0;
     vertical-align: middle;
   }
   
@@ -68,8 +68,21 @@ body {
   }
   
   input[type="file"] {
-    padding: 1px 2px;
+    padding: 2px;
+    background: unset;
+    border: unset;
+    border-bottom: 3px solid #0a0a23;
   }
-  a {
+    a {
     color: #dfdfe2;
+  }
+
+.check {
+    width: unset;
+    margin: 0 0.5em 0.3em 0;
+    vertical-align: middle;
+  }
+
+  .label1 {
+    margin: 20px 0 0 0;
   }
