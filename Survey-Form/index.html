@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="styles.css">
+    <title>Survey Form</title>
+  </head>
+  <body>
+    <main>
+      <h1 id="title">freeCodeCamp Survey Form</h1>
+      <p class="description" id="description">Thank you for taking the time to help us improve the platform</p>
+      <div class="divider">
+        <form action="https://freecodecamp.com/" id="survey-form">
+          <label class="block" id="name-label">Name <input class="block input-box" type="text" id="name" placeholder="Enter your name" required /></lable>
+          <label class="block" id="email-label">Email <input class="block input-box" type="email" id="email" placeholder="Enter your email" required /></lable>
+          <label class="inline" id="number-label">Age <p class="inline age-optional" class="optional">(optional)</p> <input class="block input-box" type="number" id="number" min="10" max="99" placeholder="Age" /></lable>
+          <label class="block">Which option best describes your current role? 
+            <select class="block input-box role-box" id="dropdown" required>
+              <option>Select current role</option>
+              <option>Student</option>
+              <option>Full Time Job</option>
+              <option>Full Time Learner</option>
+              <option>Prefer not to say</option>
+              <option>Other</option>
+            </select>
+          </label>
+          <label for="definitely" class="block recommend-title">Would you recommend freeCodeCamp to a friend?</label>
+          <label for="definitely" class="block recommend"><input type="radio" id="definitely" name="recommend" checked value="Definitely" /> Definitely</label>
+          <label class="block recommend" for="maybe"><input class="radio" type="radio" id="maybe" name="recommend" value="Maybe" /> Maybe</label>
+          <label class="block recommend" for="not-sure"> <input class="radio" type="radio" id="not-sure" name="recommend" value="Not-sure" /> Not sure</label>
+          <label class="block feature">What is your favorite feature of freeCodeCamp? 
+            <select class="block input-box" id="favorite-feature">
+              <option>Select an option</option>
+              <option>Challenges</option>
+              <option>Projects</option>
+              <option>Community</option>
+              <option>Open Source</option>
+            </select>
+          </label>
+          <label class="block improved-title">What would you like to see improved? <p class="inline">(Check all that apply)</p></label>
+          <label class="block improved" for="front-end"><input class="improved-box" type="checkbox" id="front-end" name="front-end" value="front-end" /> Front-end Projects</label>
+          <label class="block improved" for="Back-end"><input class="improved-box" type="checkbox" id="Back-end" name="Back-end" value="Back-end" /> Back-end Projects</label>
+          <label class="block improved" for="Data-Visualization"><input class="improved-box" type="checkbox" id="Data-Visualization" name="Data-Visualization" value="Data-visualization" /> Data Visualization</label>
+          <label class="block improved" for="Challenges"><input type="checkbox" class="improved-box" id="Challenges" name="Challenges" value="Challenges" /> Challenges</label>
+          <label class="block improved" for="Open-Source"><input type="checkbox" class="improved-box" id="Open-Source" name="Open-Source" value="Open-Source" /> Open Source Community</label>
+          <label class="block improved" for="Gitter-help"><input type="checkbox" class="improved-box" id="Gitter-help" name="Gitter-help" value="Gitter-help-rooms" /> Gitter help rooms</label>
+          <label class="block improved" for="Videos"><input type="checkbox" class="improved-box" id="Videos" name="Videos" value="Videos" /> Videos</label>
+          <label class="block improved" for="City-Meetups"><input type="checkbox" class="improved-box" id="City-Meetups" name="City-Meetups" value="City-Meetups" /> City Meetups</label>
+          <label class="block improved" for="Wiki"><input type="checkbox" class="improved-box" id="Wiki" name="Wiki" value="Wiki" /> Wiki</label>
+          <label class="block improved" for="forum"><input type="checkbox" class="improved-box" id="forum" name="forum" value="forum" /> Forum</label>
+          <label class="block improved" for="additional-courses"><input type="checkbox" class="improved-box" id="additional-courses" name="additional-courses" value="Aditional-courses" /> Additional Courses</label>
+          <label class="block any-comment">Any comments or suggestions?
+            <textarea class="block" placeholder="Enter your comment here..." rows="5"></textarea>
+          </label class="block">
+          <input class="block" type="submit" id="submit" value="Submit"/>
+        </form>
+      </div>
+    </main>  
+  </body>
