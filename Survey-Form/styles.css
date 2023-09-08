@@ -48,7 +48,7 @@ body {
   }
   
   .divider {
-    max-width: 500px;
+    max-width: 540px;
     background-color: rgba(0, 0, 0, 0.6);
     margin: auto;
     padding: 45px 40px;
@@ -68,6 +68,7 @@ body {
   
   form {
     color: white;
+    margin-left: 17px;
   }
   
   .input-box {
