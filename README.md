@@ -1,93 +1,33 @@
-#### Nutrition Label Project README
-
-# Nutrition Label Project
+# Web Development Projects
 
 **Author:** Precious Gabraels
 
-## Description
-This project is an HTML template for displaying nutrition label information. It includes details such as servings, calories, fats, cholesterol, sodium, carbohydrates, sugars, protein, and vitamins. The template is styled using CSS.
+Welcome to the Web Development Projects repository. This repository contains various web development projects, each designed to help you practice and learn different aspects of web development. Below is a list of the projects included in this repository:
 
-## Usage
-1. Copy the HTML code provided in `nutrition_label.html` to your HTML file.
-2. Customize the nutrition information as needed.
-3. Link to your CSS file for styling.
-4. Open the HTML file in a web browser to view the nutrition label.
+## Projects
 
+1. [Nutrition Label Project](nutrition_label/README.md)
+   - An HTML template for displaying nutrition label information with custom styling.
+   
+2. [Photo Gallery Project](photo_gallery/README.md)
+   - An HTML template for creating a responsive photo gallery.
 
-#### Photo Gallery Project README
+3. [Registration Form Project](registration_form/README.md)
+   - An HTML template for creating a registration form with various input fields.
 
+4. [Rothko Painting Project](rothko_painting/README.md)
+   - An HTML template for creating a visual representation of a Rothko-inspired painting.
 
-# Photo Gallery Project
+5. [CSS Color Markers Project](css_color_marker/README.md)
+   - An HTML template for creating visual representations of colored markers using CSS.
 
-**Author:** Precious Gabraels
+6. [Cafe Menu Project](coffee_shop/README.md)
+   - An HTML template for creating a cafe menu web page.
 
-## Description
-This project is an HTML template for creating a photo gallery. It includes a header with a title, and a series of images displayed in a responsive grid format. It is styled using CSS.
+7. [Accessibility Quiz Project](quiz_site/README.md)
+   - An HTML/CSS quiz with a focus on accessibility practices.
 
-## Usage
-1. Copy the HTML code provided in `photo_gallery.html` to your HTML file.
-2. Replace the image sources with your own images.
-3. Link to your CSS file for styling.
-4. Open the HTML file in a web browser to view the photo gallery.
+Feel free to explore each project by clicking on the links above. Each project's README file contains detailed information, usage instructions, and code explanations.
 
-
-#### Registration Form Project README
-
-# Registration Form Project
-
-**Author:** Precious Gabraels
-
-## Description
-This project is an HTML template for creating a registration form. It includes fields for first name, last name, email address, password, age, profile image, bio, registration type, and source. It is styled using CSS.
-
-## Usage
-1. Copy the HTML code provided in `registration_form.html` to your HTML file.
-2. Customize the form fields and labels as needed.
-3. Link to your CSS file for styling.
-4. Open the HTML file in a web browser to view the registration form.
-
-
-#### Rothko Painting Project README
-
-# Rothko Painting Project
-
-**Author:** Precious Gabraels
-
-## Description
-This project is an HTML template for creating a visual representation of a Rothko-inspired painting. It includes a canvas with abstract color blocks. It is styled using CSS.
-
-## Usage
-1. Copy the HTML code provided in `rothko_painting.html` to your HTML file.
-2. Customize the color blocks, arrangement, and sizes as needed.
-3. Link to your CSS file for styling.
-4. Open the HTML file in a web browser to view the Rothko-inspired painting.
-
-#### CSS Color Markers Project README
-
-# CSS Color Markers Project
-
-**Author:** Precious Gabraels
-
-## Description
-This project is an HTML template for creating visual representations of colored markers using HTML and CSS. It includes colorful markers with caps and sleeves. It is styled using CSS.
-
-## Usage
-1. Copy the HTML code provided in `color_markers.html` to your HTML file.
-2. Customize the colors and styles of the markers as needed.
-3. Link to your CSS file for styling.
-4. Open the HTML file in a web browser to view the CSS color markers.
-
-#### Cafe Menu Project README
-
-# Cafe Menu Project
-
-**Author:** Precious Gabraels
-
-## Description
-This project is an HTML template for creating a cafe menu web page. It includes sections for coffee and desserts with item names and prices. It is styled using CSS.
-
-## Usage
-1. Copy the HTML code provided in `cafe_menu.html` to your HTML file.
-2. Customize the menu items, prices, and sections as needed.
-3. Link to your CSS file for styling.
-4. Open the HTML file in a web browser to view the cafe menu.
+## Contact
+If you have any questions or feedback about these projects, please contact Precious Gabraels at [preciousgabraels2@gmail.com](preciousgabraels2@gmail.com).
