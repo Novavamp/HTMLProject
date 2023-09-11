@@ -6,7 +6,7 @@ Welcome to the Web Development Projects repository. This repository contains var
 
 ## Projects
 
-1. [Nutrition Label Project](blob/main/Nutrition_Label/README.md)
+1. [Nutrition Label Project](Nutrition_Label/README.md)
    - An HTML template for displaying nutrition label information with custom styling.
    
 2. [Photo Gallery Project](photo_gallery/README.md)
