@@ -27,6 +27,9 @@ Welcome to the Web Development Projects repository. This repository contains var
 7. [Accessibility Quiz Project](Quiz_Site/README.md)
    - An HTML/CSS quiz with a focus on accessibility practices.
 
+7. [Survey Form](Survey-Form/README.md)
+   - An HTML/CSS Survey Form.
+
 Feel free to explore each project by clicking on the links above. Each project's README file contains detailed information, usage instructions, and code explanations.
 
 ## Contact
