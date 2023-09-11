@@ -9,22 +9,22 @@ Welcome to the Web Development Projects repository. This repository contains var
 1. [Nutrition Label Project](Nutrition_Label/README.md)
    - An HTML template for displaying nutrition label information with custom styling.
    
-2. [Photo Gallery Project](photo_gallery/README.md)
+2. [Photo Gallery Project](Photo_Gallery/README.md)
    - An HTML template for creating a responsive photo gallery.
 
-3. [Registration Form Project](registration_form/README.md)
+3. [Registration Form Project](Registration_Form/README.md)
    - An HTML template for creating a registration form with various input fields.
 
-4. [Rothko Painting Project](rothko_painting/README.md)
+4. [Rothko Painting Project](Rothko_Painting/README.md)
    - An HTML template for creating a visual representation of a Rothko-inspired painting.
 
-5. [CSS Color Markers Project](css_color_marker/README.md)
+5. [CSS Color Markers Project](CSS_Color_Marker/README.md)
    - An HTML template for creating visual representations of colored markers using CSS.
 
-6. [Cafe Menu Project](coffee_shop/README.md)
+6. [Cafe Menu Project](Coffee_Shop/README.md)
    - An HTML template for creating a cafe menu web page.
 
-7. [Accessibility Quiz Project](quiz_site/README.md)
+7. [Accessibility Quiz Project](Quiz_Site/README.md)
    - An HTML/CSS quiz with a focus on accessibility practices.
 
 Feel free to explore each project by clicking on the links above. Each project's README file contains detailed information, usage instructions, and code explanations.
