@@ -1,36 +1,50 @@
-# Web Development Projects
+<div align="center">
 
-**Author:** Precious Gabraels
+# Front-End Foundations
 
-Welcome to the Web Development Projects repository. This repository contains various web development projects, each designed to help you practice and learn different aspects of web development. Below is a list of the projects included in this repository:
+**A collection of small HTML and CSS projects exploring layout, styling, forms, and accessibility.**
 
-## Projects
+![HTML5](https://img.shields.io/badge/HTML5-markup-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-styling-1572B6?logo=css3&logoColor=white)
 
-1. [Nutrition Label Project](Nutrition_Label/README.md)
-   - An HTML template for displaying nutrition label information with custom styling.
-   
-2. [Photo Gallery Project](Photo_Gallery/README.md)
-   - An HTML template for creating a responsive photo gallery.
+</div>
 
-3. [Registration Form Project](Registration_Form/README.md)
-   - An HTML template for creating a registration form with various input fields.
+## About
 
-4. [Rothko Painting Project](Rothko_Painting/README.md)
-   - An HTML template for creating a visual representation of a Rothko-inspired painting.
+This repository brings together focused front-end exercises. Each project explores a particular interface or CSS technique, from typography and colour to forms, galleries, and accessible content.
 
-5. [CSS Color Markers Project](CSS_Color_Marker/README.md)
-   - An HTML template for creating visual representations of colored markers using CSS.
+## Project gallery
 
-6. [Cafe Menu Project](Coffee_Shop/README.md)
-   - An HTML template for creating a cafe menu web page.
+| Project | What it demonstrates |
+| --- | --- |
+| [Nutrition Label](./Nutrition_Label) | Structured information and typographic hierarchy |
+| [Photo Gallery](./Photo_Gallery) | Responsive image layout |
+| [Registration Form](./Registration_Form) | Form structure and input styling |
+| [Rothko Painting](./Rothko_Painting) | Abstract composition with CSS |
+| [CSS Color Markers](./CSS_Color_Marker) | Colour values, gradients, and visual styling |
+| [Cafe Menu](./Coffee_Shop) | A simple menu layout |
+| [Accessibility Quiz](./Quiz_Site) | Semantic HTML and accessible form controls |
+| [Survey Form](./Survey-Form) | Form layout and input elements |
 
-7. [Accessibility Quiz Project](Quiz_Site/README.md)
-   - An HTML/CSS quiz with a focus on accessibility practices.
+## Run locally
 
-7. [Survey Form](Survey-Form/README.md)
-   - An HTML/CSS Survey Form.
+These are static front-end exercises. Clone the repository and open the relevant project's HTML file in a browser:
 
-Feel free to explore each project by clicking on the links above. Each project's README file contains detailed information, usage instructions, and code explanations.
+```bash
+git clone https://github.com/Novavamp/HTMLProject.git
+cd HTMLProject
+```
 
-## Contact
-If you have any questions or feedback about these projects, please contact Precious Gabraels at [preciousgabraels2@gmail.com](preciousgabraels2@gmail.com).
+No build step is required for the basic HTML/CSS examples.
+
+## Focus areas
+
+- Semantic HTML structure.
+- CSS layout and visual hierarchy.
+- Responsive design fundamentals.
+- Forms and accessible markup.
+- Reusable styling patterns.
+
+---
+
+*Built and maintained by [Precious Okechukwu Nwosu](https://github.com/Novavamp).*
